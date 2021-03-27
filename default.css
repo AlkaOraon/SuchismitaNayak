@@ -42,6 +42,9 @@ p, li, span, label, input{
 .main-container{
     width: 1200px;
     margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 a{
     text-decoration: none;
